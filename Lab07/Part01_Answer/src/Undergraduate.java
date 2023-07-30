@@ -1,0 +1,2 @@
+class Undergraduate extends Student {
+}
